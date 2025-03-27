@@ -50,42 +50,76 @@ A full-stack web application for managing university-level courses, assignments,
 ---
 
 
+---
+
 ## 📸 Screenshots
 
-Below are some screenshots demonstrating the functionality of the Course Management System.
+Here are some screenshots demonstrating the key features and functionality of the Course Management System:
 
+---
 
 ### 🔐 Login Page
 
-<img width="1023" alt="Screenshot 2025-03-26 at 4 39 00 PM" src="https://github.com/user-attachments/assets/ca8e5b72-6dd6-4d3a-8686-8f96bb32afcb" />
+> Secure login interface for all roles.
 
+<img width="1023" alt="Login Page" src="https://github.com/user-attachments/assets/ca8e5b72-6dd6-4d3a-8686-8f96bb32afcb" />
+
+---
 
 ### 🧑‍🎓 Student Dashboard
-- View enrolled courses as well as student information
-  <img width="1433" alt="Screenshot 2025-03-26 at 4 55 15 PM" src="https://github.com/user-attachments/assets/59fba411-04d2-4283-ab57-303e92b1df35" />
 
-- See grades and course info
-  
-<img width="1023" alt="Screenshot 2025-03-26 at 5 12 30 PM" src="https://github.com/user-attachments/assets/ffa6614f-936d-4b98-8ac3-443d41482251" />
+> Students can view their profile, enrolled courses, and grades.
 
+#### 🗂️ Enrolled Courses & Student Information
+<img width="1433" alt="Student Dashboard" src="https://github.com/user-attachments/assets/59fba411-04d2-4283-ab57-303e92b1df35" />
+
+#### 📊 Course Details & Grades
+<img width="1023" alt="Student Course Details" src="https://github.com/user-attachments/assets/ffa6614f-936d-4b98-8ac3-443d41482251" />
+
+---
 
 ### 👩‍🏫 Teacher Dashboard
-- View teacher information as well as courses tought
-  <img width="1020" alt="Screenshot 2025-03-26 at 5 22 31 PM" src="https://github.com/user-attachments/assets/fcb5eddb-b3de-4049-8d1c-dfa436aeac13" />
 
-- Create assignments and Enter edit mode to modify grades for each assignment
-<img width="1023" alt="Screenshot 2025-03-26 at 5 06 00 PM" src="https://github.com/user-attachments/assets/5c88bf25-04c1-4ca4-9aad-ef9e02aede46" />
+> Teachers can manage courses, create assignments, and assign grades.
 
-- Edit any grades as well as delete any assignment if necessery
-<img width="1023" alt="Screenshot 2025-03-26 at 5 09 41 PM" src="https://github.com/user-attachments/assets/9ec65fe9-aeef-44de-9741-b64ee504e1f4" />
+#### 📚 Courses Taught & Teacher Info
+<img width="1020" alt="Teacher Dashboard" src="https://github.com/user-attachments/assets/fcb5eddb-b3de-4049-8d1c-dfa436aeac13" />
 
-- All the changes are automatically persisted to the database
-<img width="1012" alt="Screenshot 2025-03-26 at 5 10 09 PM" src="https://github.com/user-attachments/assets/0351ae66-1b05-4b0b-99e8-f8b3f89dfa43" />
+#### ✏️ Create Assignments & Edit Grades
+<img width="1023" alt="Edit Assignments" src="https://github.com/user-attachments/assets/5c88bf25-04c1-4ca4-9aad-ef9e02aede46" />
 
+#### 🗑️ Edit or Delete Assignments
+<img width="1023" alt="Edit or Delete Grades" src="https://github.com/user-attachments/assets/9ec65fe9-aeef-44de-9741-b64ee504e1f4" />
+
+#### 💾 Auto-Save to Database
+<img width="1012" alt="Auto Save" src="https://github.com/user-attachments/assets/0351ae66-1b05-4b0b-99e8-f8b3f89dfa43" />
+
+---
 
 ### 🛠️ Admin Panel
-- CRUD operations for students, teachers, and courses
-![Admin Panel](./screenshots/admin-panel.png)
+
+> Full CRUD capabilities for managing Students, Teachers, and Courses.
+<img width="1440" alt="Screenshot 2025-03-26 at 2 36 02 PM" src="https://github.com/user-attachments/assets/6ffe3a9c-02d4-4a09-a7a5-0af6c552a7cf" />
+
+#### ➕ Add New Student
+<img width="1440" alt="Screenshot 2025-03-26 at 2 34 00 PM" src="https://github.com/user-attachments/assets/3575f832-4776-48e4-8303-1f6b289ee0c5" />
+
+#### ➕ Add New Course
+<img width="1440" alt="Add Course" src="https://github.com/user-attachments/assets/075a01ab-cc44-4270-9438-062cc9fa9038" />
+
+#### ➕ Add New Teacher
+<img width="1440" alt="Screenshot 2025-03-26 at 2 35 36 PM" src="https://github.com/user-attachments/assets/8f741d6a-0808-4d3e-88df-7d308974589b" />
+
+#### 🔍 View Detailed Row Info
+<img width="1017" alt="Row Info" src="https://github.com/user-attachments/assets/70d1bdd3-5178-414f-b4ef-510bab377510" />
+
+---
+
+
+
+
+
+
 
 ---
 
